@@ -1,5 +1,5 @@
 <h1 style="text-align: center;">PyAutoGUI</h1>
-[docs](https://pyautogui.readthedocs.io/en/latest/)
+[docs](https://pyautogui.readthedocs.io/en/latest/) | [Contribute](www.google.com)
 =========
 
 PyAutoGUI is a  cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.
